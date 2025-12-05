@@ -1,6 +1,5 @@
 import * as React from "react"
-import { Slot } from "@radix-ui/react-slot"
-import { cva, type VariantProps } from "class-variance-authority"
+
 
 // Since I don't have clsx/tailwind-merge installed yet, I'll do a simple join for now or install them.
 // Actually, I'll just use template literals for simplicity in this MVP phase or install them.
